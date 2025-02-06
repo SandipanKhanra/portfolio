@@ -1,29 +1,17 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Fullstack Developer",
+    "organisation": "Cognizant",
+    "startDate": "August, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Developed and maintained user interfaces using React.js resulting in a 30% reduction in development time for new projects.",
+      "Identified and resolved performance issues, resulting in a 20% increase in page load speed.",
+      "Utilized Redux for state management, resulting in a 25% reduction in code complexity.",
+      "Stayed up-to-date with emerging technologies and frameworks, resulting in increase in team efficiency and project success rate.",
+      "Mentored fellow team members to up-skill in Frontend development domain",
+      "Collaborated with project managers to successfully deliver projects on time, resulting in an increase in organizational efficiency"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/google.png"
   }
 ]

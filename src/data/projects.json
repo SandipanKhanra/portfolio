@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Food Order App",
+    "imageSrc": "projects/food.png",
+    "description": "This is a project made to learn the latest languages by building a fully responsive app.",
+    "skills": ["React", "HTML", "CSS", "Firebase"],
+    "demo": "https://foodorder-deployment.web.app",
+    "source": "https://github.com/SandipanKhanra/FoodOrder"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Dice game",
+    "imageSrc": "projects/dice.png",
+    "description": "This is an interactive dice game.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://sandipankhanra.github.io/dicegame/",
+    "source": "https://github.com/SandipanKhanra/dicegame"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Memory Colours",
+    "imageSrc": "projects/color.png",
+    "description": "Are you ready to know your memory? Let's go and play to know who has got BIG Brain",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://sandipankhanra.github.io/simon/",
+    "source": "https://github.com/SandipanKhanra/simon"
+  },
+  {
+    "title": "Tech Drummer",
+    "imageSrc": "projects/drums.png",
+    "description": "Come on bring out the Musician in you.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://sandipankhanra.github.io/drumkit/",
+    "source": "https://github.com/SandipanKhanra/drumkit"
   }
 ]
