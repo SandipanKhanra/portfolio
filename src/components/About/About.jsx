@@ -13,32 +13,31 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Profile icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Product-minded Fullstack Engineer</h3>
               <p>
-                I&apos;m a frontend developer with experience in building highly
-                responsive and optimized sites
+                Concise, impact-focused experience across frontend and
+                backend—delivering fast, accessible React interfaces and
+                reliable backend systems for scalable production services.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/serverIcon.png")} alt="Skills icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>I have experience developing REST APIs</p>
-            </div>
-          </li>
-          {/* <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
-            <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Core Strengths</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                <strong>Frontend:</strong> React, performance optimization,
+                Redux Toolkit, responsive & accessible UIs.
+              </p>
+              <p>
+                <strong>Backend:</strong> REST APIs, microservices patterns
+                (circuit breaker), message queuing, scheduled jobs, and
+                logging/observability.
               </p>
             </div>
-          </li> */}
+          </li>
         </ul>
       </div>
     </section>

@@ -1,16 +1,26 @@
 [
   {
+    "role": "SDE-1",
+    "organisation": "Eshopbox",
+    "startDate": "April, 2025",
+    "endDate": "October, 2025",
+    "experiences": [
+      "Developed and deployed reliable scheduled jobs with retryable logic for critical order fetching, ensuring 100% data ingestion reliability and minimizing manual intervention for failed transactions.",
+      "Implemented the Circuit Breaker design pattern across core microservices to enhance service resilience, leading to a 40% reduction in cascading failures and increased overall system reliability and fault tolerance.",
+      "Architected and implemented a message queuing system for 5+ critical services to achieve asynchronous processing and decoupling, resulting in a 30% improvement in request handling latency and system scalability.",
+      "Devised and executed a logging optimization strategy for various microservices, leading to a remarkable 90% reduction in operational costs."
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
     "role": "Fullstack Developer",
     "organisation": "Cognizant",
     "startDate": "August, 2022",
-    "endDate": "Present",
+    "endDate": "March, 2025",
     "experiences": [
-      "Developed and maintained user interfaces using React.js resulting in a 30% reduction in development time for new projects.",
-      "Identified and resolved performance issues, resulting in a 20% increase in page load speed.",
-      "Utilized Redux for state management, resulting in a 25% reduction in code complexity.",
-      "Stayed up-to-date with emerging technologies and frameworks, resulting in increase in team efficiency and project success rate.",
-      "Mentored fellow team members to up-skill in Frontend development domain",
-      "Collaborated with project managers to successfully deliver projects on time, resulting in an increase in organizational efficiency"
+      "Implemented a global state management solution using Redux Toolkit, resulting in a 25% reduction in component complexity.",
+      "Enhanced component rendering, leading to a 50% decrease in page load time.",
+      "Integrated RESTful APIs to streamline data exchange and improve system functionality."
     ],
     "imageSrc": "history/google.png"
   }
